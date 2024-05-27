@@ -11,7 +11,7 @@ This application requires that you install Node.js and Inquirer.
 ## Usage
 First run schema.sql using sql in your terminal. Then open index.js and type in "node server.js" and begin answering the prompts.
 ## Contributing
-Special thanks to Connor Spendlove.
+Special thanks to Connor Spendlove for helping.
 ## Questions
 GitHub: https://github.com/matt-christopherson/
   
